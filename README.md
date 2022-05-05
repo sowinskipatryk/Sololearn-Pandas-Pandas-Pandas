@@ -1,1 +1,1 @@
-# Sololearn-Pandas-Pandas-Pandas
+Answer to the final task from the "Data Science" course in Sololearn app. Since the clustering unsupervised learning algorithm requires updating the centroids for each cluster after assigning new data to the corresponding groups, the task is to find the next centroid value based on the given number of new points and their values.
